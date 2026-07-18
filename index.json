@@ -1,0 +1,8 @@
+[
+  {
+    "name": "我的自建源",
+    "author": "xuzhen2905",
+    "version": "1.0.0",
+    "script": "https://github.com/xuzhen2905-pixel/venera-source/raw/main/my_source.js"
+  }
+]
